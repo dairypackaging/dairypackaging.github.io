@@ -4,7 +4,6 @@ url: "https://dairypackaging.github.io"
 baseurl: ""
 email: wowthemesnet@gmail.com
 timezone: UTC
-baseurl: ""
 permalink: "/:title/"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
