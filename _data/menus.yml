@@ -1,28 +1,21 @@
 # Top Menu
 topmenu:
+  - title: "Trang chủ"
+    url: "/"
 
-- title: "Trang chủ"
-  url: "/"
+  - title: "Danh mục Bao bì"
+    url: "#"
+    submenu:
+      - title: "Bao bì sữa nước"
+        url: "/bao-bi-sua-nuoc/"
+      - title: "Bao bì sữa chua"
+        url: "/bao-bi-sua-chua/"
+      - title: "Bao bì màng phức hợp"
+        url: "/bao-bi-mang-phuc-hop/"
+      - title: "Bao bì túi phức hợp"
+        url: "/bao-bi-tui-phuc-hop/"
+      - title: "Bao bì phôi chai"
+        url: "/bao-bi-phoi-chai/"
 
-- title: "Tên Bao Bì"
-  url: "/bao-bi-sua-nuoc"
-
-- title: "Công Nghệ Đóng Gói"
-  url: "#"
-
-- title: "Nhà Cung Cấp"
-  url: "#"
-  class: "ml-2 btn btn-dark text-white px-3"
-
-
-# Footer Menu
-footermenu:
-
-- title: "Trang chủ"
-  url: "/"
-
-- title: "Chính sách bảo mật"
-  url: "#"
-
-- title: "Liên hệ"
-  url: "#"
+  - title: "Công Nghệ Đóng Gói"
+    url: "/cong-nghe/"
