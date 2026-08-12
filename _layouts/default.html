@@ -1,5 +1,28 @@
 <!DOCTYPE html>
 <html lang="en">
+<style>
+  /* 1. Dịch tiêu đề xuống để không bị che */
+  h1 {
+    margin-top: 60px !important; /* Tăng giảm số 60px nếu cần */
+  }
+
+  /* 2. Định dạng màu và ký hiệu cho các link trong danh sách */
+  li a {
+    color: #007bff !important; /* Màu xanh dương cho link */
+    text-decoration: none;
+    font-weight: bold;
+  }
+  
+  li a:hover {
+    color: #0056b3 !important; /* Màu đậm hơn khi rê chuột */
+    text-decoration: underline;
+  }
+  
+  li a::after {
+    content: " ↗"; /* Thêm ký hiệu mũi tên để nhận biết link */
+    font-size: 0.8em;
+  }
+</style>
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
