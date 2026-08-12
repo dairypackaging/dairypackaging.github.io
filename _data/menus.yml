@@ -1,7 +1,7 @@
 # Top Menu
 topmenu:
-  - title: "Trang chủ"
-    url: "trang-chu"
+- title: Trang chủ
+  url: / # Hoặc để trỏ thẳng về trang gốc của web
 
   - title: "Bao bì sữa nước"
     url: "bao-bi-sua-nuoc"
