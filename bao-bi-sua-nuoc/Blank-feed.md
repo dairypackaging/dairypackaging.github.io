@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Bao bì Blank Feed"
+title: "Bao bì blank feed"
 parent: Bao bì sữa nước
 ---
 # Công nghệ Bao bì Blank Feed (Dạng phôi)
