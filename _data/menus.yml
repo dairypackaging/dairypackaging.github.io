@@ -1,22 +1,22 @@
 # Top Menu
 topmenu:
   - title: "Trang chủ"
-    url: "/"
+    url: "https://github.io"
 
   - title: "Bao bì sữa nước"
-    url: "/bao-bi-sua-nuoc/"
+    url: "https://github.iobao-bi-sua-nuoc/"
 
   - title: "Bao bì sữa chua"
-    url: "/bao-bi-sua-chua/"
+    url: "https://github.iobao-bi-sua-chua/"
 
   - title: "Bao bì màng phức hợp"
-    url: "/bao-bi-mang-phuc-hop/"
+    url: "https://github.iobao-bi-mang-phuc-hop/"
 
   - title: "Bao bì túi phức hợp"
-    url: "/bao-bi-tui-phuc-hop/"
+    url: "https://github.iobao-bi-tui-phuc-hop/"
 
   - title: "Bao bì phôi chai"
-    url: "/bao-bi-phoi-chai/"
+    url: "https://github.iobao-bi-phoi-chai/"
 
   - title: "Công Nghệ Đóng Gói"
-    url: "/cong-nghe/"
+    url: "https://github.iocong-nghe/"
