@@ -19,6 +19,6 @@ Dựa trên nền tảng tổng quan trên, hệ thống báo cáo được chia
 * **[Chuyên đề 3: Các hệ thống đóng gói linh hoạt (Túi Ecolean)](ecolean.md)** **
   * Giải pháp bao bì nhựa nhẹ (lightweight) cho ngành sữa.
 
-* **[Chuyên đề 4: Xu hướng vật liệu & Ứng dụng ngành (Market Insights)](xu-huong.md)** *(Bản nháp - Đang cập nhật)*
+* **[Chuyên đề 4: Xu hướng vật liệu & Ứng dụng ngành (Market Insights)](xu-huong.md)** **
   * Xu hướng bền vững: Vật liệu rào cản gốc giấy (paper-based barrier), nắp gắn liền (tethered cap).
   * Ứng dụng thực tế tại các tập đoàn Dairy lớn: Vinamilk, TH true Milk, Nestlé, Lactalis, Yili.Nutifood
