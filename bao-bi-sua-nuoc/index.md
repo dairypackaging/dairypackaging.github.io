@@ -29,8 +29,7 @@ Dưới đây là sự khác biệt chi tiết:
 
 ---
 
-## 2. Mục lục Tài liệu Chuyên sâu
-
+## 2. Mục lục
 Dựa trên nền tảng tổng quan trên, hệ thống báo cáo được chia thành các phân hệ chuyên sâu để phục vụ cho công tác thiết kế (R&D), vận hành nhà máy và thu mua nguyên vật liệu:
 
 * **[Chuyên đề 1: Bao bì Roll-fed (Dạng cuộn) - Phân tích chi tiết](bao-bi-roll-fed.md)**
