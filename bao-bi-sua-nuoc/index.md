@@ -24,6 +24,7 @@ Chào mừng đến với hệ thống tài liệu chuyên sâu về bao bì đ�
 | **Ưu điểm chính** | Tốc độ rất cao, ít mối nối, hiệu quả logistics (cuộn nhỏ gọn hơn thùng phôi dựng sẵn). | Linh hoạt đổi định dạng nhanh, phù hợp sản phẩm tươi/ESL. |
 
 *(Lưu ý: SIG Combibloc dùng công nghệ "sleeve" — vật liệu được cắt, hàn dọc và gấp phẳng thành sleeve ngay tại nhà máy sản xuất bao bì, sau đó cấp vào máy chiết dưới dạng sleeve xếp chồng (không phải cuộn). Trong khi Tetra Pak dùng đúng nghĩa cuộn (roll) và tự hàn dọc ngay trên máy chiết. .*
+![Phân biệt Roll-fed và Blank-fed](images/phan-biet-tetrapak-sig.png)
 
 ---
 
@@ -35,6 +36,7 @@ Chào mừng đến với hệ thống tài liệu chuyên sâu về bao bì đ�
 | **Hình dạng đặc trưng** | Brick (hình gạch), đáy có 2 nếp gấp. | Brick, đáy 1 nếp gấp thẳng, ống hút cắm giữa hộp. | Gable-top (đỉnh mái nhà tam giác). |
 | **Thị phần aseptic toàn cầu**| Ước tính 60–80% tuỳ nguồn. | Đứng thứ 2, mạnh ở châu Âu. | Mạnh nhất ở phân khúc gable-top/tươi. |
 | **Ví dụ khách hàng lớn** | Lactalis, Nestlé, Vinamilk, TH true Milk, Nutifood. | Frischli, Lyons, Maeil Dairy, TH true Milk, Vinamilk, Nutifood. | SILL/Malo Dairy, Arla (một số dòng). |
+![Phân biệt logo Tetra Pak, SIG](images/logo-tetrapak-sig.png)
 
 ---
 
